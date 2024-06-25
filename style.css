@@ -46,7 +46,7 @@
     font-family: 'josefin sans',sans-serif;
 }
 .hero-content {
-    padding-left: 80px !important;  
+    padding-left: 80px;  
 }
 .flat {
     text-align: end;
